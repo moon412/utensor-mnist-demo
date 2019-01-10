@@ -34,6 +34,11 @@ Running artificial intelligence on embedded systems involves 3 main steps.
 ## Build Instruction
 1. Import the project:
 ```
+git clone https://github.com/uTensor/utensor-mnist-demo
+git checkout f/rom-tensor
+```
+mbed import may not work. 
+```
 $ mbed import https://github.com/uTensor/utensor-mnist-demo
 ```
 
